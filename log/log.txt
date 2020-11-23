@@ -1,0 +1,601 @@
+2020.05.29 11:04:38 /   test    /   page : forum
+ration
+5.28 16:36:03 /   jojo    /   Logout
+2020.05.28 16:36:08 /   jojo    /   Login failed
+2020.05.28 16:36:14 /   jojo    /   SUCCESS LOGIN
+2020.05.28 16:36:16 /   jojo    /   Logout
+2020.05.28 16:36:47 /   coucou    /   User created
+2020.05.28 16:50:51 /   jojo    /   SUCCESS LOGIN
+2020.05.28 16:50:59 /   jojo    /   SUCCESS : Topic created for Star Wars
+2020.05.28 16:51:03 /   jojo    /   FAIL : Error create topic for club Star Wars
+2020.05.28 16:58:48 /   jojo    /   FAIL : Error create topic for club Star Wars
+2020.05.28 17:11:09 /   jojo    /   FAIL : Error create topic for club Star Wars
+2020.05.28 17:20:43 /   jojo    /   SUCCESS : statistics reseted
+2020.05.28 17:28:11 /   jojo    /   SUCCESS : message 'ayo added to topic ID(26)
+2020.05.28 17:35:02 /   jojo    /   SUCCESS : message ID(76) is the best answer from topic ID(26)
+2020.05.28 17:37:06 /   jojo    /   SUCCESS : message ID(76) deleted, ID forum (26)
+2020.05.28 17:37:18 /   jojo    /   SUCCESS : message 'ihfuhgruhiug' added to topic ID(26)
+2020.05.28 17:37:26 /   jojo    /   SUCCESS : topic ID(21) deleted
+2020.05.28 17:37:42 /   jojo    /   FAIL : empty field for adding new item to club Star Wars
+2020.05.28 17:37:58 /   jojo    /   SUCCESS : item aooo added to club Star Wars
+2020.05.28 18:22:31 /   jojo    /   FAIL : empty field for adding new item to club Star Wars
+2020.05.28 18:22:38 /   jojo    /   FAIL : empty field for adding new item to club Star Wars
+2020.05.28 21:02:57 /   steven    /   SUCCESS LOGIN
+2020.05.29 09:07:37 /   steven    /   SUCCESS LOGIN
+2020.05.29 09:08:00 /   Visitor    /   SUCCESS : test created for Game of Throne
+2020.05.29 09:08:15 /   steven    /   SUCCESS : success the test for club Game of Throne
+2020.05.29 09:08:15 /   steven    /   FAIL : error adding new club member to Game of Throne
+2020.05.29 09:08:21 /   steven    /   SUCCESS : success the test for club Game of Throne
+2020.05.29 09:08:21 /   steven    /   FAIL : error adding new club member to Game of Throne
+2020.05.29 09:10:23 /   steven    /   SUCCESS : success the test for club Naruto
+2020.05.29 09:10:23 /   steven    /   FAIL : error adding new club member to Naruto
+2020.05.29 09:11:16 /   steven    /   SUCCESS : success the test for club Game of Throne
+2020.05.29 09:11:16 /   steven    /   FAIL : error adding new club member to Game of Throne
+2020.05.29 09:12:44 /   steven    /   SUCCESS : success the test for club Game of Throne
+2020.05.29 09:12:44 /   steven    /   FAIL : error adding new club member to Game of Throne
+2020.05.29 09:12:51 /   steven    /   SUCCESS : success the test for club Game of Throne
+2020.05.29 09:12:51 /   steven    /   FAIL : error adding new club member to Game of Throne
+2020.05.29 09:13:41 /   steven    /   SUCCESS : success the test for club Game of Throne
+2020.05.29 09:13:41 /   steven    /   SUCCESS : user added to club Game of Throne
+2020.05.29 09:16:34 /   steven    /   Logout
+2020.05.29 09:16:41 /   test    /   SUCCESS LOGIN
+2020.05.29 09:16:52 /   test    /   SUCCESS : success the test for club Game of Throne
+2020.05.29 09:16:52 /   test    /   SUCCESS : user added to club Game of Throne
+2020.05.29 09:52:56 /   test    /   SUCCESS : User ID(20) is now moderator of clubGame of Throne
+2020.05.29 09:53:10 /   test    /   SUCCESS : User ID(5) is now moderator of clubGame of Throne
+2020.05.29 09:54:41 /   test    /   SUCCESS : User ID(5) is now moderator of clubGame of Throne
+2020.05.29 09:54:52 /   test    /   SUCCESS : User ID(5) is now moderator of clubGame of Throne
+2020.05.29 09:55:19 /   test    /   SUCCESS : User ID(5) is now moderator of clubGame of Throne
+2020.05.29 09:56:58 /   test    /   SUCCESS : User ID(5) is now moderator of club Game of Throne
+2020.05.29 09:57:17 /   test    /   SUCCESS : User ID(20) is no longer moderator of club Game of Throne
+2020.05.29 09:57:20 /   test    /   SUCCESS : User ID(5) is no longer moderator of club Game of Throne
+2020.05.29 09:57:22 /   test    /   SUCCESS : User ID(4) is now moderator of club Game of Throne
+2020.05.29 10:59:37 /   test    /   page : 
+2020.05.29 10:59:39 /   test    /   SUCCESS : statistics reseted
+2020.05.29 10:59:41 /   test    /   page : 
+2020.05.29 10:59:45 /   test    /   page : 
+2020.05.29 11:02:05 /   test    /   page : login
+2020.05.29 11:02:14 /   test    /   page : author
+2020.05.29 11:06:59 /   test    /   page : test
+2020.05.29 11:07:04 /   test    /   page : login
+2020.05.29 11:08:04 /   test    /   page : registration
+2020.05.29 11:08:04 /   test    /   page : registration
+2020.05.29 11:08:23 /   test    /   page : forum
+2020.05.29 11:10:31 /   test    /   page : fanPage
+2020.05.29 11:21:17 /   test    /   Logout
+2020.05.29 11:21:20 /   Visitor    /   page : login
+2020.05.29 11:21:23 /   Visitor    /   page : login
+2020.05.29 11:21:23 /   jojo    /   SUCCESS LOGIN
+2020.05.29 11:21:30 /   jojo    /   page : forum
+2020.05.29 11:21:34 /   jojo    /   page : discussion
+2020.05.29 11:21:39 /   jojo    /   page : discussion
+2020.05.29 11:21:39 /   jojo    /   SUCCESS : message 'ah ouaaaais' added to topic ID(30)
+2020.05.29 11:21:39 /   jojo    /   page : discussion
+2020.05.29 11:21:41 /   jojo    /   page : log
+2020.05.29 11:31:54 /   jojo    /   search in list of test passed filtered by test
+2020.05.29 11:32:05 /   jojo    /   search in list of test passed filtered by game of throne
+2020.05.29 11:32:10 /   jojo    /   search in list of test passed filtered by star
+2020.05.29 11:32:18 /   jojo    /   search in list of test passed filtered by fail
+2020.05.29 11:34:56 /   jojo    /   search in list of test passed filtered by plplp
+2020.05.29 11:37:07 /   jojo    /   search in list of test passed filtered by mam
+2020.05.29 11:37:15 /   jojo    /   search in list of test passed filtered by aa
+2020.05.29 11:37:30 /   jojo    /   search in list of test passed filtered by aa
+2020.05.29 11:38:00 /   jojo    /   search in list of test passed filtered by aaa
+2020.05.29 11:38:02 /   jojo    /   search in list of test passed filtered by amlal
+2020.05.29 11:38:20 /   jojo    /   search in list of test passed filtered by amlal
+2020.05.29 11:38:58 /   jojo    /   search in list of test passed filtered by aaaa
+2020.05.29 11:39:17 /   jojo    /   search in list of test passed filtered by aaaa
+2020.05.29 11:39:21 /   jojo    /   search in list of test passed filtered by aaa
+2020.05.29 11:39:23 /   jojo    /   search in list of test passed filtered by star wars
+2020.05.29 11:39:26 /   jojo    /   search in list of test passed filtered by a
+2020.05.29 11:39:30 /   jojo    /   search in list of test passed filtered by naru
+2020.06.02 08:25:50 /   jojo    /   SUCCESS LOGIN
+2020.06.02 10:29:46 /   jojo    /   Logout
+2020.06.02 10:29:51 /   jojo    /   SUCCESS LOGIN
+2020.06.02 10:47:00 /   jojo    /   Logout
+2020.06.02 10:47:25 /   ok    /   Fail create new user : email or username already in the database
+2020.06.02 11:26:29 /   jojo    /   SUCCESS LOGIN
+2020.06.03 14:43:24 /   Visitor    /   FAIL : Impossible to create club 
+2020.06.03 14:44:28 /   Visitor    /   FAIL : Impossible to create club kook
+2020.06.03 14:44:45 /   Visitor    /   FAIL : Impossible to create club kook
+2020.06.03 14:44:53 /   Visitor    /   FAIL : Impossible to create club ijioohh
+2020.06.03 14:45:45 /   test    /   SUCCESS LOGIN
+2020.06.03 14:47:32 /   test    /   FAIL : Impossible to create club breaking bad
+2020.06.03 14:49:30 /   test    /   FAIL : Impossible to create club breaking bad
+2020.06.03 14:49:56 /   test    /   FAIL : Impossible to create club breaking bad
+2020.06.03 14:50:00 /   test    /   FAIL : Impossible to create club breaking bad
+2020.06.03 14:50:11 /   test    /   FAIL : Impossible to create club breaking bad
+2020.06.03 14:50:23 /   test    /   FAIL : Impossible to create club breaking bad
+2020.06.03 14:50:35 /   test    /   FAIL : Impossible to create club breaking bad
+2020.06.03 14:50:54 /   test    /   FAIL : Impossible to create club breaking bad
+2020.06.03 14:51:12 /   test    /   FAIL : Impossible to create club breaking bad
+2020.06.03 14:51:49 /   test    /   SUCCESS :  club created 
+2020.06.03 14:52:44 /   test    /   SUCCESS : breaking bad club created 
+2020.06.03 14:55:51 /   test    /   SUCCESS : Breaking Bad club created 
+2020.06.03 14:57:11 /   test    /   SUCCESS : Topic created for Breaking Bad
+2020.06.03 14:59:25 /   test    /   Logout
+2020.06.03 22:31:38 /   Visitor    /   FAIL : Impossible to create club kljhhu
+2020.06.03 22:31:46 /   test    /   Login failed
+2020.06.03 22:34:23 /   test    /   Login failed
+2020.06.03 22:34:34 /   test    /   Account locked
+2020.06.03 22:34:34 /   test    /   Login failed
+2020.06.03 22:35:03 /   Visitor    /   SUCCESS : account ID(20) unlocked
+2020.06.03 22:35:14 /   test    /   SUCCESS LOGIN
+2020.06.03 22:35:25 /   test    /   Logout
+2020.06.03 22:35:30 /   test    /   Login failed
+2020.06.03 22:35:52 /   test    /   Login failed
+2020.06.03 22:36:19 /   test    /   Account locked
+2020.06.03 22:36:19 /   test    /   Login failed
+2020.06.03 22:36:25 /   Visitor    /   SUCCESS : account ID(20) unlocked
+2020.06.03 22:36:30 /   test    /   Login failed
+2020.06.03 22:36:45 /   test    /   SUCCESS LOGIN
+2020.06.03 22:37:02 /   test    /   SUCCESS : liughuybhg club created 
+2020.06.03 22:37:21 /   Visitor    /   SUCCESS : test created for liughuybhg
+2020.06.03 22:37:49 /   Visitor    /   FAIL : creating new test for club liughuybhg
+2020.06.03 22:38:17 /   test    /   SUCCESS : Test ID (25) deleted
+2020.06.03 22:38:36 /   test    /   SUCCESS : test created for liughuybhg
+2020.06.03 22:38:48 /   test    /   SUCCESS : success the test for club liughuybhg
+2020.06.03 22:38:48 /   test    /   FAIL : error adding new club member to liughuybhg
+2020.06.03 22:39:05 /   test    /   SUCCESS : success the test for club liughuybhg
+2020.06.03 22:39:05 /   test    /   FAIL : error adding new club member to liughuybhg
+2020.06.03 22:41:08 /   test    /   SUCCESS : success the test for club liughuybhg
+2020.06.03 22:41:08 /   test    /   FAIL : error adding new club member to liughuybhg
+2020.06.03 22:41:32 /   test    /   SUCCESS : success the test for club liughuybhg
+2020.06.03 22:41:32 /   test    /   FAIL : error adding new club member to liughuybhg
+2020.06.03 22:41:37 /   test    /   SUCCESS : success the test for club liughuybhg
+2020.06.03 22:41:37 /   test    /   FAIL : error adding new club member to liughuybhg
+2020.06.03 22:41:43 /   test    /   SUCCESS : success the test for club liughuybhg
+2020.06.03 22:41:43 /   test    /   FAIL : error adding new club member to liughuybhg
+2020.06.03 22:41:46 /   test    /   SUCCESS : success the test for club liughuybhg
+2020.06.03 22:41:46 /   test    /   FAIL : error adding new club member to liughuybhg
+2020.06.03 22:42:59 /   test    /   Logout
+2020.06.03 22:43:07 /   jojo    /   SUCCESS LOGIN
+2020.06.03 22:43:15 /   jojo    /   SUCCESS : success the test for club liughuybhg
+2020.06.03 22:43:15 /   jojo    /   SUCCESS : user added to club liughuybhg
+2020.06.03 22:43:41 /   jojo    /   SUCCESS : success the test for club liughuybhg
+2020.06.03 22:43:41 /   jojo    /   FAIL : error adding new club member to liughuybhg
+2020.06.03 22:45:29 /   jojo    /   SUCCESS : Topic created for liughuybhg
+2020.06.03 22:45:32 /   jojo    /   SUCCESS : Topic created for liughuybhg
+2020.06.03 22:45:39 /   jojo    /   SUCCESS : message 'fjhdfuhgduifh' added to topic ID(37)
+2020.06.03 22:45:42 /   jojo    /   SUCCESS : message 'flhdfiugh' added to topic ID(37)
+2020.06.03 22:45:43 /   jojo    /   SUCCESS : message ID(112) is the best answer from topic ID(37)
+2020.06.03 22:45:54 /   jojo    /   SUCCESS : One more forum from liughuybhg has been deleted
+2020.06.03 22:45:54 /   jojo    /   SUCCESS : One more forum from liughuybhg has been deleted
+2020.06.03 22:46:38 /   jojo    /   SUCCESS : item uihuih added to club liughuybhg
+2020.06.03 22:46:49 /   jojo    /   SUCCESS : One more item from liughuybhg has been deleted
+2020.06.03 23:00:37 /   jojo    /   SUCCESS : Every user from liughuybhg are no longer members
+2020.06.04 09:53:03 /   jojo    /   SUCCESS LOGIN
+2020.06.04 10:00:23 /   jojo    /   Logout
+2020.06.04 21:42:42 /   Visitor    /   SUCCESS : message ID(68) is the best answer from topic ID(22)
+2020.06.04 23:10:39 /   jojo    /   SUCCESS LOGIN
+2020.06.04 23:15:17 /   jojo    /   Logout
+2020.06.04 23:15:32 /   jojo    /   SUCCESS LOGIN
+2020.06.04 23:15:47 /   jojo    /   Logout
+2020.06.04 23:15:52 /   jeffrey    /   SUCCESS LOGIN
+2020.06.04 23:16:49 /   Phomsouvandara    /   SUCCESS : User ID(5) is now moderator of club Game of Throne
+2020.06.04 23:16:53 /   Phomsouvandara    /   SUCCESS : User ID(5) is no longer moderator of club Game of Throne
+2020.06.04 23:17:00 /   jeffrey    /   SUCCESS : Item ID (53) from club Game of Throne deleted
+2020.06.04 23:17:05 /   jeffrey    /   FAIL : Not enough points to buy item item9
+2020.06.04 23:17:16 /   jeffrey    /   SUCCESS : item ID( 38) deleted from user collection
+2020.06.04 23:17:21 /   jeffrey    /   SUCCESS : item ID( 37) deleted from user collection
+2020.06.04 23:17:31 /   jeffrey    /   FAIL : Not enough points to buy item item5
+2020.06.04 23:17:47 /   jeffrey    /   SUCCESS : statistics reseted
+2020.06.04 23:24:42 /   jeffrey    /   Logout
+2020.06.04 23:24:45 /   jojo    /   SUCCESS LOGIN
+2020.06.04 23:26:20 /   jojo    /   SUCCESS : Topic created for One piece
+2020.06.04 23:29:40 /   jojo    /   FAIL : Impossible to create club iojiuhuih
+2020.06.04 23:30:02 /   jojo    /   FAIL : Impossible to create club iojiuhuih
+2020.06.04 23:31:58 /   jojo    /   SUCCESS : iojiuhuih club created 
+2020.06.04 23:33:07 /   jojo    /   SUCCESS : iojiuhuih club created 
+2020.06.04 23:33:43 /   jojo    /   SUCCESS : Every user from iojiuhuih are no longer members
+2020.06.04 23:33:49 /   jojo    /   SUCCESS : Every user from iojiuhuih are no longer members
+2020.04.06 20.36.22 /   jojo    /   Logout
+2020.04.06 20.36.30 /   jojo    /   SUCCESS LOGIN
+2020.05.06 00.05.59 /   jojo    /   Logout
+2020.05.06 00.06.05 /   jeffrey    /   SUCCESS LOGIN
+2020.05.06 00.07.18 /   jeffrey    /   Logout
+2020.05.06 00.07.44 /   jeffrey    /   SUCCESS LOGIN
+2020.05.06 00.09.35 /   jeffrey    /   Logout
+2020.05.06 00.15.30 /   jojo    /   SUCCESS LOGIN
+2020.05.06 00.15.38 /   jojo    /   SUCCESS : message '69 is not no longer the best answer from topic ID(22)
+2020.05.06 00.15.45 /   jojo    /   SUCCESS : message '68 is not no longer the best answer from topic ID(22)
+2020.05.06 00.15.49 /   jojo    /   SUCCESS : message ID(68) is the best answer from topic ID(22)
+2020.05.06 00.15.50 /   jojo    /   SUCCESS : message '68 is not no longer the best answer from topic ID(22)
+2020.05.06 00.16.18 /   jojo    /   SUCCESS : message '68 is not no longer the best answer from topic ID(22)
+2020.05.06 00.16.20 /   jojo    /   SUCCESS : message ID(68) is the best answer from topic ID(22)
+2020.05.06 00.16.22 /   jojo    /   SUCCESS : message '68 is not no longer the best answer from topic ID(22)
+2020.05.06 00.16.24 /   jojo    /   SUCCESS : message ID(68) is the best answer from topic ID(22)
+2020.05.06 00.16.28 /   jojo    /   SUCCESS : message '68 is not no longer the best answer from topic ID(22)
+2020.05.06 00.16.48 /   jojo    /   SUCCESS : message 'huigy' added to topic ID(39)
+2020.05.06 00.16.51 /   jojo    /   SUCCESS : message ID(114) is the best answer from topic ID(39)
+2020.05.06 00.17.06 /   jojo    /   SUCCESS : message ID(107) is the best answer from topic ID(30)
+2020.05.06 00.17.42 /   jojo    /   SUCCESS : Topic created for Game of Throne
+2020.05.06 00.18.08 /   jojo    /   SUCCESS : Topic created for Game of Throne
+2020.05.06 00.20.06 /   jojo    /   SUCCESS : Topic created for Game of Throne
+2020.05.06 00.20.21 /   jojo    /   SUCCESS : topic ID(40) deleted
+2020.05.06 00.20.22 /   jojo    /   SUCCESS : topic ID(41) deleted
+2020.05.06 00.20.23 /   jojo    /   SUCCESS : topic ID(42) deleted
+2020.05.06 00.20.26 /   jojo    /   SUCCESS : topic ID(30) deleted
+2020.04.06 19.20.46 /   jojo    /   SUCCESS : Topic created for Game of Throne
+2020.04.06 19.21.20 /   jojo    /   SUCCESS : Topic created for Game of Throne
+2020.04.06 19.21.50 /   jojo    /   SUCCESS : Topic created for Game of Throne
+2020.04.06 19.29.49 /   jojo    /   SUCCESS : Topic created for Game of Throne
+2020.04.06 19.31.21 /   jojo    /   SUCCESS : Topic created for Game of Throne
+2020.04.06 19.32.14 /   jojo    /   SUCCESS : fail the test for club Star Wars
+2020.04.06 19.32.22 /   jojo    /   SUCCESS : success the test for club Star Wars
+2020.04.06 19.32.22 /   jojo    /   FAIL : error adding new club member to Star Wars
+2020.04.06 19.32.50 /   jojo    /   SUCCESS : Topic created for Star Wars
+2020.04.06 19.33.34 /   jojo    /   SUCCESS : topic ID(43) deleted
+2020.04.06 19.33.36 /   jojo    /   SUCCESS : topic ID(44) deleted
+2020.04.06 19.33.36 /   jojo    /   SUCCESS : topic ID(45) deleted
+2020.04.06 19.33.37 /   jojo    /   SUCCESS : topic ID(46) deleted
+2020.04.06 19.33.38 /   jojo    /   SUCCESS : topic ID(22) deleted
+2020.04.06 19.33.46 /   jojo    /   SUCCESS : message ID(79) is the best answer from topic ID(27)
+2020.04.06 19.33.51 /   jojo    /   SUCCESS : message '79 is not no longer the best answer from topic ID(27)
+2020.04.06 19.33.55 /   jojo    /   SUCCESS : message ID(81) is the best answer from topic ID(27)
+2020.04.06 19.35.15 /   jojo    /   SUCCESS : message ID(81) is the best answer from topic ID(27)
+2020.04.06 19.35.18 /   jojo    /   SUCCESS : message '81 is not no longer the best answer from topic ID(27)
+2020.04.06 19.35.24 /   jojo    /   SUCCESS : message ID(92) is the best answer from topic ID(27)
+2020.04.06 19.35.31 /   jojo    /   SUCCESS : message '92 is not no longer the best answer from topic ID(27)
+2020.04.06 19.35.55 /   jojo    /   SUCCESS : message ID(81) is the best answer from topic ID(27)
+2020.04.06 19.40.11 /   jojo    /   SUCCESS : message ID(81) is the best answer from topic ID(27)
+2020.04.06 19.40.32 /   jojo    /   SUCCESS : message ID(81) is the best answer from topic ID(27)
+2020.04.06 19.42.00 /   jojo    /   SUCCESS : message '81 is not no longer the best answer from topic ID(27)
+2020.04.06 19.42.07 /   jojo    /   SUCCESS : message ID(80) is the best answer from topic ID(27)
+2020.04.06 19.43.18 /   jojo    /   SUCCESS : message ID(80) is the best answer from topic ID(27)
+2020.04.06 19.45.52 /   jojo    /   SUCCESS : message '80 is not no longer the best answer from topic ID(27)
+2020.04.06 19.45.58 /   jojo    /   SUCCESS : message ID(82) is the best answer from topic ID(27)
+2020.05.06 05.35.11 /   jojo    /   SUCCESS LOGIN
+1970.01.01 01.00.00 /   pl    /   Fail create new user : email or username already in the database
+2020.06.05 12:47:12 /   jojo    /   SUCCESS : Item ID (37) from club Game of Throne deleted
+2020.06.05 12:47:15 /   jojo    /   FAIL : Impossible to delete item ID (38) from club Game of Throne
+2020.06.05 12:47:18 /   jojo    /   FAIL : Impossible to delete item ID (38) from club Game of Throne
+2020.06.05 12:47:22 /   jojo    /   FAIL : Impossible to delete item ID (39) from club Game of Throne
+2020.06.05 12:47:25 /   jojo    /   SUCCESS : Item ID (40) from club Game of Throne deleted
+2020.06.05 12:47:28 /   jojo    /   SUCCESS : Item ID (43) from club Game of Throne deleted
+2020.06.05 12:47:30 /   jojo    /   FAIL : Impossible to delete item ID (46) from club Game of Throne
+2020.06.05 12:47:36 /   jojo    /   FAIL : Impossible to delete item ID (38) from club Game of Throne
+2020.06.05 12:47:39 /   jojo    /   FAIL : Impossible to delete item ID (38) from club Game of Throne
+2020.06.05 12:47:42 /   jojo    /   FAIL : Impossible to delete item ID (48) from club Game of Throne
+2020.06.05 12:47:45 /   jojo    /   SUCCESS : Item ID (52) from club Game of Throne deleted
+2020.06.05 12:47:49 /   jojo    /   FAIL : Impossible to delete item ID (48) from club Game of Throne
+2020.06.05 12:47:52 /   jojo    /   FAIL : Impossible to delete item ID (46) from club Game of Throne
+2020.06.05 12:53:53 /   jojo    /   FAIL : Impossible to delete item ID (39) from club Game of Throne
+2020.06.05 12:54:57 /   jojo    /   FAIL : Impossible to delete item ID (39) from club Game of Throne
+2020.06.05 12:59:15 /   jojo    /   SUCCESS : Item ID (39) from club Game of Throne deleted
+2020.06.05 12:59:20 /   jojo    /   SUCCESS : Item ID (48) from club Game of Throne deleted
+2020.06.05 12:59:23 /   jojo    /   SUCCESS : Item ID (46) from club Game of Throne deleted
+2020.06.05 12:59:25 /   jojo    /   SUCCESS : Item ID (38) from club Game of Throne deleted
+2020.06.05 13:57:55 /   jojo    /   SUCCESS : Item ID (36) from club Game of Throne deleted
+2020.06.05 13:58:00 /   jojo    /   SUCCESS : Item ID (35) from club Game of Throne deleted
+2020.06.05 17:20:20 /   jojo    /   search in list of test passed filtered by jojo
+2020.06.05 17:23:08 /   jojo    /   SUCCESS : user ID( 20) deleted
+2020.06.05 17:39:01 /   jojo    /   Logout
+2020.06.05 17:39:06 /   Visitor    /   Try to login but empty field
+2020.06.05 17:39:56 /   Visitor    /   Try to login but empty field
+2020.06.05 17:40:01 /   Visitor    /   SUCCESS LOGIN
+2020.06.05 17:41:26 /   jeffrey    /   SUCCESS : message 'lhdigf' added to topic ID(47)
+2020.06.05 17:41:29 /   jeffrey    /   SUCCESS : message 'idhyg' added to topic ID(47)
+2020.06.05 17:41:32 /   jeffrey    /   SUCCESS : message ID(124) is the best answer from topic ID(47)
+2020.06.05 17:41:36 /   jeffrey    /   SUCCESS : message '124 is not no longer the best answer from topic ID(47)
+2020.06.05 17:41:46 /   jeffrey    /   SUCCESS : message ID(125) is the best answer from topic ID(47)
+2020.06.05 17:41:52 /   jeffrey    /   SUCCESS : message '125 is not no longer the best answer from topic ID(47)
+2020.06.05 17:43:29 /   jeffrey    /   Logout
+2020.06.05 17:43:32 /   Visitor    /   SUCCESS LOGIN
+2020.06.05 17:45:43 /   jojo    /   SUCCESS : topic ID(39) deleted
+2020.06.05 17:47:33 /   jojo    /   SUCCESS : topic ID(39) deleted
+2020.06.05 17:47:41 /   jojo    /   Logout
+2020.06.05 17:47:49 /   Visitor    /   SUCCESS LOGIN
+2020.06.06 00:20:46 /   Visitor    /   SUCCESS LOGIN
+2020.06.06 00:20:59 /   jojo    /   SUCCESS : Test ID (7) deleted
+2020.06.06 00:32:24 /   jojo    /   SUCCESS : test created for Star Wars
+2020.06.06 00:33:46 /   jojo    /   SUCCESS : success the test for club Star Wars
+2020.06.06 00:33:46 /   jojo    /   FAIL : error adding new club member to Star Wars
+2020.06.06 00:34:14 /   somo    /   Fail create new user : email or username already in the database
+2020.06.06 11:48:51 /   jojo    /   SUCCESS LOGIN
+2020.06.06 11:49:00 /   jojo    /   FAIL : Not enough points to buy item item2
+2020.06.06 11:55:12 /   jojo    /   SUCCESS : item eluhddeu added to club Game of Throne
+2020.06.06 11:55:15 /   jojo    /   SUCCESS : item eluhddeu added to club Game of Throne
+2020.06.06 11:55:16 /   jojo    /   SUCCESS : item eluhddeu added to club Game of Throne
+2020.06.06 11:55:17 /   jojo    /   SUCCESS : item eluhddeu added to club Game of Throne
+2020.06.06 11:55:19 /   jojo    /   SUCCESS : item eluhddeu added to club Game of Throne
+2020.06.06 11:55:20 /   jojo    /   SUCCESS : item eluhddeu added to club Game of Throne
+2020.06.06 11:55:22 /   jojo    /   SUCCESS : item eluhddeu added to club Game of Throne
+2020.06.06 18:52:24 /   Visitor    /   SUCCESS : pagination set to 8
+2020.06.06 18:53:54 /   jojo    /   SUCCESS : pagination set to 8
+2020.06.06 18:53:57 /   jojo    /   SUCCESS : pagination set to 7
+2020.06.06 18:56:39 /   jojo    /   SUCCESS : virtual time shift is now 2
+2020.06.06 15:56:41 /   jojo    /   SUCCESS : virtual time shift is now 2
+2020.06.06 15:56:42 /   jojo    /   SUCCESS : virtual time shift is now 2
+2020.06.08 16:09:11 /   jojo    /   SUCCESS LOGIN
+2020.06.08 16:22:38 /   jojo    /   SUCCESS : cookie duration set to 3
+2020.06.08 16:22:41 /   jojo    /   SUCCESS : cookie duration set to 4
+2020.06.08 16:28:23 /   jojo    /   SUCCESS LOGIN
+2020.06.08 16:42:40 /   jojo    /   Logout
+2020.06.08 16:42:58 /   steven    /   SUCCESS LOGIN
+2020.06.08 16:54:16 /   steven    /   SUCCESS : message 'ayoooo' added to topic ID(47)
+2020.06.08 17:30:34 /   steven    /   Logout
+2020.06.08 17:30:39 /   jojo    /   SUCCESS LOGIN
+2020.06.08 17:43:05 /   jojo    /   SUCCESS : item alawakba added to club Game of Throne
+2020.06.08 17:44:45 /   jojo    /   FAIL : empty field for adding new item to club Game of Throne
+2020.06.08 18:16:46 /   jojo    /   SUCCESS : item (33) updated 
+2020.06.08 18:23:42 /   jojo    /   SUCCESS : item (33) updated 
+2020.06.08 18:24:10 /   jojo    /   SUCCESS : item (33) updated 
+2020.06.08 18:58:08 /   jojo    /   SUCCESS : pagination set to 3
+2020.06.08 19:09:50 /   jojo    /   SUCCESS : email duration set to 8
+2020.06.08 19:11:42 /   jojo    /   SUCCESS : email duration set to 8
+2020.06.08 19:12:48 /   jojo    /   SUCCESS : email duration set to 8
+2020.06.08 19:15:02 /   jojo    /   SUCCESS : email duration set to 8
+2020.06.08 19:15:48 /   jojo    /   SUCCESS : email duration set to 8
+2020.06.08 19:15:56 /   jojo    /   SUCCESS : email duration set to 8
+2020.06.08 19:19:04 /   jojo    /   SUCCESS : email duration set to 8
+2020.06.08 19:19:21 /   jojo    /   SUCCESS : email duration set to 8
+2020.06.08 19:28:35 /   jojo    /   Logout
+2020.06.08 19:28:39 /   jojo    /   SUCCESS LOGIN
+2020.06.08 19:33:29 /   jojo    /   Logout (connected for too long)
+2020.06.08 19:33:38 /   Visitor    /   SUCCESS : log set to 0
+2020.06.08 19:33:38 /   Visitor    /   SUCCESS : log set to 0
+2020.06.08 19:33:50 /   jojo    /   SUCCESS LOGIN
+2020.06.08 19:33:51 /   jojo    /   Logout (connected for too long)
+2020.06.08 19:34:03 /   jojo    /   SUCCESS LOGIN
+2020.06.08 19:34:04 /   jojo    /   Logout (connected for too long)
+2020.06.08 19:34:07 /   Visitor    /   SUCCESS : log set to 1
+2020.06.08 19:34:09 /   Visitor    /   SUCCESS : log set to 1
+2020.06.08 19:34:59 /   Visitor    /   SUCCESS : log set to 1
+2020.06.08 19:35:27 /   jojo    /   SUCCESS LOGIN
+2020.06.08 19:36:42 /   jojo    /   SUCCESS : email duration set to 7
+2020.06.08 19:36:42 /   jojo    /   Logout (connected for too long)
+2020.06.08 19:36:47 /   Visitor    /   SUCCESS : email duration set to 1
+2020.06.08 19:36:58 /   jojo    /   SUCCESS LOGIN
+2020.06.08 19:37:25 /   jojo    /   SUCCESS : email duration set to 7
+2020.06.08 19:38:01 /   jojo    /   Logout (connected for too long)
+2020.06.08 19:39:58 /   jojo    /   SUCCESS LOGIN
+2020.06.11 20:49:02 /   jojo    /   SUCCESS LOGIN
+2020.06.11 23:17:28 /   jojo    /   Logout (connected for too long)
+2020.06.11 23:38:03 /   jojo    /   SUCCESS LOGIN
+2020.06.11 23:43:35 /   jojo    /   SUCCESS : message '77 is not no longer the best answer from topic ID(26)
+2020.06.11 23:43:41 /   jojo    /   SUCCESS : message ID(105) is the best answer from topic ID(26)
+2020.06.11 23:45:07 /   jojo    /   SUCCESS : message ID(105) is the best answer from topic ID(26)
+2020.06.11 23:45:56 /   jojo    /   SUCCESS : message ID(105) is the best answer from topic ID(26)
+2020.06.11 23:46:28 /   jojo    /   SUCCESS : message ID(105) is the best answer from topic ID(26)
+2020.06.11 23:46:38 /   jojo    /   SUCCESS : message ID(105) is the best answer from topic ID(26)
+2020.06.11 23:46:42 /   jojo    /   SUCCESS : message '105 is not no longer the best answer from topic ID(26)
+2020.06.11 23:46:45 /   jojo    /   SUCCESS : message ID(77) is the best answer from topic ID(26)
+2020.06.11 23:47:51 /   jojo    /   SUCCESS : pagination set to 10
+2020.06.11 23:48:07 /   jojo    /   Logout
+2020.06.11 23:49:31 /   jojo    /   SUCCESS LOGIN
+2020.06.12 00:05:27 /   jojo    /   SUCCESS : message 'aaa' added to topic ID(31)
+2020.06.12 00:05:56 /   jojo    /   SUCCESS : message 'aaa' added to topic ID(31)
+2020.06.12 00:06:20 /   jojo    /   SUCCESS : message 'aaa' added to topic ID(31)
+2020.06.12 00:07:06 /   jojo    /   SUCCESS : message 'huhuh' added to topic ID(31)
+2020.06.12 00:07:24 /   jojo    /   SUCCESS : message 'kjdfjid' added to topic ID(31)
+2020.06.12 00:07:29 /   jojo    /   SUCCESS : message ID(127) deleted, ID forum (31)
+2020.06.12 00:07:30 /   jojo    /   SUCCESS : message ID(128) deleted, ID forum (31)
+2020.06.12 00:07:31 /   jojo    /   SUCCESS : message ID(129) deleted, ID forum (31)
+2020.06.12 00:07:32 /   jojo    /   SUCCESS : message ID(130) deleted, ID forum (31)
+2020.06.12 00:07:33 /   jojo    /   SUCCESS : message ID(131) deleted, ID forum (31)
+2020.06.12 00:07:50 /   jojo    /   SUCCESS : message 'jjh' added to topic ID(31)
+2020.06.12 00:08:23 /   jojo    /   SUCCESS : message 'aaa' added to topic ID(31)
+2020.06.12 00:09:13 /   jojo    /   SUCCESS : message 'a' added to topic ID(31)
+2020.06.12 00:10:14 /   jojo    /   SUCCESS : message 'huhuhuhuh' added to topic ID(31)
+2020.06.12 00:10:48 /   jojo    /   SUCCESS : message 'groooooosse pute' added to topic ID(31)
+2020.06.12 00:11:58 /   jojo    /   SUCCESS : message ID(133) deleted, ID forum (31)
+2020.06.12 00:12:01 /   jojo    /   SUCCESS : message ID(132) deleted, ID forum (31)
+2020.06.12 00:12:03 /   jojo    /   SUCCESS : message ID(134) deleted, ID forum (31)
+2020.06.12 00:12:06 /   jojo    /   SUCCESS : message ID(135) deleted, ID forum (31)
+2020.06.12 00:12:08 /   jojo    /   SUCCESS : message ID(136) deleted, ID forum (31)
+2020.06.12 00:12:13 /   jojo    /   SUCCESS : message 'puuute' added to topic ID(31)
+2020.06.12 00:13:03 /   jojo    /   SUCCESS : message 'aaa' added to topic ID(31)
+2020.06.12 00:15:26 /   jojo    /   FAIL : impossible to post message 'lplpp to topic ID(31)
+2020.06.12 00:15:37 /   jojo    /   FAIL : impossible to post message 'lplpp to topic ID(31)
+2020.06.12 00:15:43 /   jojo    /   FAIL : impossible to post message 'aaaa to topic ID(31)
+2020.06.12 00:16:05 /   jojo    /   FAIL : impossible to post message 'aaaa to topic ID(31)
+2020.06.12 00:17:01 /   jojo    /   SUCCESS : message 'aaaa' added to topic ID(31)
+2020.06.12 00:17:06 /   jojo    /   SUCCESS : message ID(137) deleted, ID forum (31)
+2020.06.12 00:17:17 /   jojo    /   SUCCESS : message ID(138) deleted, ID forum (31)
+2020.06.12 00:17:19 /   jojo    /   SUCCESS : message ID(139) deleted, ID forum (31)
+2020.06.12 00:17:20 /   jojo    /   SUCCESS : message ID(140) deleted, ID forum (31)
+2020.06.12 00:17:21 /   jojo    /   SUCCESS : message ID(141) deleted, ID forum (31)
+2020.06.12 00:17:21 /   jojo    /   SUCCESS : message ID(142) deleted, ID forum (31)
+2020.06.12 00:17:22 /   jojo    /   SUCCESS : message ID(143) deleted, ID forum (31)
+2020.06.12 00:17:28 /   jojo    /   SUCCESS : message 'a' added to topic ID(31)
+2020.06.12 00:18:13 /   jojo    /   SUCCESS : message 'alawakba' added to topic ID(47)
+2020.06.12 00:22:01 /   jojo    /   SUCCESS : message 'alawakba' added to topic ID(47)
+2020.06.12 00:22:08 /   jojo    /   SUCCESS : message ID(146) deleted, ID forum (47)
+2020.06.12 00:22:52 /   jojo    /   SUCCESS : message 'noooon c'est pas vrai ce que tu dis' added to topic ID(47)
+2020.06.12 00:23:13 /   jojo    /   SUCCESS : message 'puuuuuete' added to topic ID(47)
+2020.06.12 00:24:19 /   jojo    /   SUCCESS : message 'puuuuuete' added to topic ID(47)
+2020.06.12 00:24:32 /   jojo    /   SUCCESS : message 'puuuuuete' added to topic ID(47)
+2020.06.12 00:24:37 /   jojo    /   SUCCESS : message ID(148) deleted, ID forum (47)
+2020.06.12 00:24:41 /   jojo    /   SUCCESS : message ID(149) deleted, ID forum (47)
+2020.06.12 00:24:43 /   jojo    /   SUCCESS : message ID(150) deleted, ID forum (47)
+2020.06.12 00:24:48 /   jojo    /   SUCCESS : message ID(126) is the best answer from topic ID(47)
+2020.06.12 00:24:53 /   jojo    /   SUCCESS : message '126 is not no longer the best answer from topic ID(47)
+2020.06.12 13:47:05 /   jojo    /   SUCCESS LOGIN
+2020.06.12 13:51:47 /   Visitor    /   Fail create new user : empty field
+2020.06.12 13:52:39 /   Visitor    /   Fail create new user : empty field
+2020.06.12 13:53:46 /   k    /   Fail create new user : email or username already in the database
+2020.06.12 16:13:21 /   jojo    /   Logout (connected for too long)
+2020.06.12 16:13:21 /   Visitor    /   Fail create new user : empty field
+2020.06.12 16:52:29 /   Visitor    /   Try to login but empty field
+2020.06.12 16:53:47 /   Visitor    /   Try to login but empty field
+2020.06.12 16:53:53 /   Visitor    /   Try to login but empty field
+2020.06.12 16:53:56 /   Visitor    /   Try to login but empty field
+2020.06.12 16:54:00 /   Visitor    /   Try to login but empty field
+2020.06.12 16:56:24 /   Visitor    /   Try to login but empty field
+2020.06.12 16:56:27 /   Visitor    /   Try to login but empty field
+2020.06.12 16:56:33 /   Visitor    /   Try to login but empty field
+2020.06.12 16:57:35 /   Visitor    /   Try to login but empty field
+2020.06.12 16:57:50 /   Visitor    /   Try to login but empty field
+2020.06.12 16:59:25 /   Visitor    /   Try to login but empty field
+2020.06.12 16:59:39 /   Visitor    /   Try to login but empty field
+2020.06.12 17:00:11 /   jojo    /   SUCCESS LOGIN
+2020.06.12 17:08:34 /   jojo    /   Logout
+2020.06.12 17:08:45 /   jojo    /   Login failed
+2020.06.12 17:08:55 /   Visitor    /   Try to login but empty field
+2020.06.12 17:09:00 /   Visitor    /   Try to login but empty field
+2020.06.12 17:09:59 /   Visitor    /   Try to login but empty field
+2020.06.12 17:10:03 /   Visitor    /   Try to login but empty field
+2020.06.12 17:10:08 /   Visitor    /   Try to login but empty field
+2020.06.12 17:10:33 /   Visitor    /   Try to login but empty field
+2020.06.12 17:10:38 /   Visitor    /   Try to login but empty field
+2020.06.12 17:10:43 /   Visitor    /   Try to login but empty field
+2020.06.12 17:12:14 /   Visitor    /   Try to login but empty field
+2020.06.12 17:12:18 /   Visitor    /   Try to login but empty field
+2020.06.12 17:12:28 /   Visitor    /   Try to login but empty field
+2020.06.12 17:12:31 /   Visitor    /   Try to login but empty field
+2020.06.12 17:12:36 /   Visitor    /   Try to login but empty field
+2020.06.12 17:12:41 /   Visitor    /   Try to login but empty field
+2020.06.12 17:12:56 /   Visitor    /   Try to login but empty field
+2020.06.12 17:13:09 /   jojo    /   SUCCESS LOGIN
+2020.06.12 17:17:05 /   jojo    /   Logout
+2020.06.12 17:23:50 /   jeffrey    /   SUCCESS LOGIN
+2020.06.12 17:23:53 /   jeffrey    /   Logout
+2020.06.12 17:24:13 /   jeffrey    /   SUCCESS LOGIN
+2020.06.12 17:24:15 /   jeffrey    /   Logout
+2020.06.12 17:24:22 /   jeffrey    /   SUCCESS LOGIN
+2020.06.12 17:24:24 /   jeffrey    /   Logout
+2020.06.12 17:25:00 /   Visitor    /   Try to login but empty field
+2020.06.12 17:25:05 /   jeffrey    /   Login failed
+2020.06.12 17:25:10 /   jeffrey    /   SUCCESS LOGIN
+2020.06.12 17:25:11 /   jeffrey    /   Logout
+2020.06.12 17:25:27 /   jojo    /   SUCCESS LOGIN
+2020.06.12 17:25:30 /   jojo    /   Logout
+2020.06.12 18:54:29 /   Visitor    /   FAIL : Not enough points to buy item eluhddeu
+2020.06.12 18:54:35 /   Visitor    /   FAIL : Not enough points to buy item item2
+2020.06.12 19:04:51 /   jojo    /   SUCCESS LOGIN
+2020.06.12 19:04:56 /   jojo    /   SUCCESS : pagination set to 3
+2020.06.12 19:16:08 /   jojo    /   SUCCESS : message '77 is not no longer the best answer from topic ID(26)
+2020.06.12 19:16:10 /   jojo    /   SUCCESS : message ID(106) is the best answer from topic ID(26)
+2020.06.12 19:34:11 /   jojo    /   SUCCESS : message 'aa' added to topic ID(32)
+2020.06.12 19:34:28 /   jojo    /   SUCCESS : message ID(151) is the best answer from topic ID(32)
+2020.06.12 19:34:34 /   jojo    /   SUCCESS : message '151 is not no longer the best answer from topic ID(32)
+2020.06.12 19:59:44 /   jojo    /   Logout
+2020.06.12 19:59:48 /   steven    /   SUCCESS LOGIN
+2020.06.12 20:00:13 /   steven    /   Logout
+2020.06.12 20:00:18 /   jojo    /   SUCCESS LOGIN
+2020.06.12 20:00:26 /   jojo    /   SUCCESS : test created for Dragon Ball Z
+2020.06.12 20:00:28 /   jojo    /   Logout
+2020.06.12 20:00:34 /   steven    /   SUCCESS LOGIN
+2020.06.12 20:00:42 /   steven    /   SUCCESS : success the test for club Dragon Ball Z
+2020.06.12 20:00:42 /   steven    /   SUCCESS : user added to club Dragon Ball Z
+2020.06.12 20:00:50 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:00:52 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:00:54 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:00:59 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:01:01 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:01:47 /   steven    /   SUCCESS : message 'aaa' added to topic ID(31)
+2020.06.12 20:01:51 /   steven    /   SUCCESS : message 'sfkhsfuilh' added to topic ID(31)
+2020.06.12 20:01:54 /   steven    /   SUCCESS : message 'dqfsee' added to topic ID(31)
+2020.06.12 20:02:09 /   steven    /   SUCCESS : message 'ayo a ziz' added to topic ID(31)
+2020.06.12 20:05:01 /   steven    /   SUCCESS : message 'groooooose puuute' added to topic ID(31)
+2020.06.12 20:06:07 /   steven    /   SUCCESS : message 'puuute' added to topic ID(31)
+2020.06.12 20:06:19 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:07:21 /   jojo    /   SUCCESS LOGIN
+2020.06.12 20:07:57 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:08:32 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:08:40 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:08:45 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:09:44 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:09:54 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:10:02 /   steven    /   SUCCESS : Topic created for Dragon Ball Z
+2020.06.12 20:10:12 /   steven    /   SUCCESS : message 'et personne ne m'a répondu' added to topic ID(61)
+2020.06.12 20:10:48 /   jojo    /   SUCCESS : item (23) updated 
+2020.06.12 20:11:16 /   jojo    /   SUCCESS : pagination set to 13
+2020.06.12 20:11:59 /   jojo    /   SUCCESS : item (24) updated 
+2020.06.12 20:12:50 /   jojo    /   SUCCESS : item (29) updated 
+2020.06.12 20:12:58 /   jojo    /   SUCCESS : item (30) updated 
+2020.06.12 20:13:05 /   jojo    /   SUCCESS : item (31) updated 
+2020.06.12 20:13:37 /   steven    /   SUCCESS : Item eiduhzedu buy
+2020.06.12 20:13:45 /   steven    /   SUCCESS : Item Game of Throne buy
+2020.06.12 20:13:45 /   steven    /   SUCCESS : steven is promoted moderator of Dragon Ball Z (enough item)
+2020.06.12 20:15:43 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:15:43 /   steven    /   SUCCESS : steven is promoted moderator of Dragon Ball Z (enough item)
+2020.06.12 20:15:50 /   steven    /   SUCCESS : Item Game of Throne buy
+2020.06.12 20:15:50 /   steven    /   SUCCESS : steven is promoted moderator of Dragon Ball Z (enough item)
+2020.06.12 20:20:10 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:20:13 /   steven    /   FAIL : Error to buy item eiduhzedu
+2020.06.12 20:20:17 /   steven    /   FAIL : Error to buy item eiduhzedu
+2020.06.12 20:20:21 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:20:23 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:20:25 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:20:34 /   Phomsouvandara    /   SUCCESS : User ID(5) is no longer moderator of club Dragon Ball Z
+2020.06.12 20:20:37 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:20:37 /   steven    /   SUCCESS : steven is promoted moderator of Dragon Ball Z (enough item)
+2020.06.12 20:21:24 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:21:51 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:21:59 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:22:05 /   steven    /   FAIL : Error to buy item Game of Throne
+2020.06.12 20:29:53 /   steven    /   Logout
+2020.06.12 20:30:16 /   steven    /   Login failed
+2020.06.12 20:30:36 /   steven    /   Login failed
+2020.06.12 20:30:42 /   steven    /   Account locked
+2020.06.12 20:30:42 /   steven    /   Login failed
+2020.06.12 20:30:50 /   steven    /   Try to login but account locked
+2020.06.12 20:31:46 /   jojo    /   SUCCESS : account ID(5) unlocked
+2020.06.12 20:32:35 /   jojo    /   SUCCESS : account ID(5) unlocked
+2020.06.12 20:32:48 /   jojo    /   SUCCESS : account ID(5) unlocked
+2020.06.12 20:32:50 /   jojo    /   SUCCESS : account ID(4) unlocked
+2020.06.12 20:32:52 /   jojo    /   SUCCESS : account ID(4) unlocked
+2020.06.12 20:32:56 /   jojo    /   SUCCESS : account ID(4) unlocked
+2020.06.12 20:32:59 /   jojo    /   SUCCESS : account ID(4) unlocked
+2020.06.12 20:33:01 /   jojo    /   SUCCESS : account ID(4) locked
+2020.06.12 20:33:04 /   jojo    /   SUCCESS : account ID(4) unlocked
+2020.06.12 20:33:06 /   jojo    /   SUCCESS : account ID(4) locked
+2020.06.12 20:33:07 /   jojo    /   SUCCESS : account ID(4) unlocked
+2020.06.12 20:33:08 /   jojo    /   SUCCESS : account ID(1) locked
+2020.06.12 20:33:10 /   jojo    /   SUCCESS : account ID(1) unlocked
+2020.06.12 20:33:11 /   jojo    /   SUCCESS : account ID(5) locked
+2020.06.12 20:33:11 /   jojo    /   SUCCESS : account ID(4) locked
+2020.06.12 20:33:13 /   jojo    /   SUCCESS : account ID(5) unlocked
+2020.06.12 20:33:14 /   jojo    /   SUCCESS : account ID(4) unlocked
+2020.06.12 20:33:16 /   jojo    /   SUCCESS : account ID(4) locked
+2020.06.12 20:33:25 /   jeffrey    /   Try to login but account locked
+2020.06.12 20:33:36 /   steven    /   SUCCESS LOGIN
+2020.06.12 20:33:40 /   jojo    /   SUCCESS : account ID(5) locked
+2020.06.12 20:36:09 /   jojo    /   SUCCESS : account ID(5) locked
+2020.06.12 20:38:16 /   steven    /   Logout (account locked)
+2020.06.12 20:38:33 /   jojo    /   SUCCESS : account ID(4) unlocked
+2020.06.12 20:38:34 /   jojo    /   SUCCESS : account ID(5) unlocked
+2020.06.13 15:10:23 /   jojo    /   SUCCESS LOGIN
+2020.06.13 15:14:24 /   jojo    /   Logout
+2020.06.13 15:23:14 /   jojo    /   SUCCESS LOGIN
+2020.06.13 15:25:02 /   jojo    /   Logout
+2020.06.13 15:25:27 /   jojo    /   SUCCESS LOGIN
+2020.06.13 15:26:17 /   jojo    /   Logout
+2020.06.13 15:27:26 /   jojo    /   SUCCESS LOGIN
+2020.06.13 15:29:43 /   jojo    /   Logout
+2020.06.13 15:29:49 /   jojo    /   SUCCESS LOGIN
+2020.06.13 15:29:55 /   jojo    /   Logout
+2020.06.13 15:42:02 /   jojo    /   SUCCESS LOGIN
+2020.06.13 16:44:11 /   jojo    /   Logout (connected for too long)
+2020.06.13 16:48:46 /   jojo    /   SUCCESS LOGIN
+2020.06.13 19:01:33 /   jojo    /   Logout (connected for too long)
+2020.06.13 19:09:50 /   jojo    /   SUCCESS LOGIN
+2020.06.14 16:24:25 /   jojo    /   SUCCESS LOGIN
+2020.06.14 16:24:28 /   jojo    /   Logout
+2020.06.14 16:24:35 /   jojo    /   SUCCESS LOGIN
+2020.06.14 16:24:40 /   jojo    /   Logout
+2020.06.14 16:24:45 /   jojo    /   SUCCESS LOGIN
+2020.06.14 16:24:47 /   jojo    /   Logout
+2020.06.14 16:28:11 /   jojo    /   SUCCESS LOGIN
+2020.06.14 16:28:14 /   jojo    /   Logout
+2020.06.14 16:32:24 /   jojo    /   SUCCESS LOGIN
+2020.06.14 16:44:27 /   jojo    /   Logout
+2020.06.14 16:45:14 /   jojo    /   SUCCESS LOGIN
+2020.06.14 16:45:39 /   jojo    /   SUCCESS : message 'efefefeefefse' added to topic ID(35)
+2020.06.14 16:45:51 /   jojo    /   SUCCESS : message 'dgtgt' added to topic ID(35)
+2020.06.14 17:46:16 /   jojo    /   Logout (connected for too long)
+2020.06.14 20:21:15 /   jojo    /   SUCCESS LOGIN
+2020.09.15 18:05:35 /   jojo    /   SUCCESS LOGIN
+2020.09.15 18:06:26 /   jojo    /   SUCCESS : message ID(126) deleted, ID forum (47)
+2020.09.15 18:06:33 /   jojo    /   SUCCESS : message ID(163) is the best answer from topic ID(35)
+2020.09.15 18:06:36 /   jojo    /   SUCCESS : message '163 is not no longer the best answer from topic ID(35)
+2020.09.15 18:06:40 /   jojo    /   SUCCESS : message 'dtthhyh' added to topic ID(35)
+2020.09.15 18:06:49 /   jojo    /   SUCCESS : message ID(162) is the best answer from topic ID(35)
+2020.09.15 18:09:16 /   jojo    /   SUCCESS : account ID(5) locked
+2020.09.15 18:09:18 /   jojo    /   SUCCESS : account ID(5) unlocked
+2020.10.11 20:52:36 /   jojo    /   SUCCESS LOGIN
+2020.10.11 20:52:40 /   jojo    /   Logout
+2020.10.11 21:41:40 /   jojo    /   SUCCESS LOGIN
+2020.10.22 12:51:18 /   jojo    /   SUCCESS LOGIN

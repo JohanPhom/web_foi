@@ -1,0 +1,56 @@
+@media print{
+
+header, footer, nav{
+    display:none;
+}
+
+
+video, iframe, audio, figure{
+    display:none;
+}
+
+#theme, #time, #nb_point_page{
+    display:none;
+}
+
+.best_movie:before, .best_movie:after{
+    display:none
+}
+
+.center_title:before, .center_title:after{
+    display:none
+}
+
+.best_movie div{
+    grid-template-columns: 1fr;
+}
+
+#box2{
+    opacity:1;
+}
+
+#title{
+    font-size:80px;
+}
+
+.background{
+    padding:0px;
+}
+
+#box_article{
+    grid-template-columns: 1fr;
+}
+
+table{
+    margin:0px;
+    color:black;
+}
+
+#box_new_content form div{
+    margin:0px;
+    padding:0px;
+}
+
+
+
+}
